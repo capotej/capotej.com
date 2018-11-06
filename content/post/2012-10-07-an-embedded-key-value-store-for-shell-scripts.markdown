@@ -3,7 +3,7 @@ layout: post
 title: "an embedded key / value store for shell scripts"
 date: 2012-10-07T10:06:00Z
 comments: true
-categories: ['shell scripting', 'databases']
+tags: ['shell scripting', 'databases']
 ---
 
 UPDATE: this is now available as a [sub](http://github.com/37signals/sub) command, here: [kiev](http://github.com/capotej/kiev)

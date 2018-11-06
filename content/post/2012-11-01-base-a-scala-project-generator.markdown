@@ -3,7 +3,7 @@ layout: post
 title: "base: a scala project generator"
 date: 2012-11-01T14:39:00Z
 comments: true
-categories: ["efficiency", "scala", "shell scripting"]
+tags: ["efficiency", "scala", "shell scripting"]
 ---
 
 Finally got tired of copy pasting other projects and gutting them to make new ones, so I created [base](http://github.com/capotej/base), a shell command that creates new scala projects.

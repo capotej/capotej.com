@@ -3,7 +3,7 @@ layout: post
 title: "riak at posterous"
 date: 2012-10-11T13:47:00Z
 comments: true
-categories: ['riak', 'posterous', 'presentation']
+tags: ['riak', 'posterous', 'presentation']
 ---
 
 A few months ago, I gave a presentation on how Posterous uses Riak for it's post cache; At [#ricon2012](http://basho.com/community/ricon2012/)

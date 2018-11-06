@@ -4,7 +4,7 @@ title: "Arrow key navigation for text fields"
 date: 2008-10-12T17:41:00Z
 comments: false
 permalink: /post/54266325/arrow-key-navigation-for-text-fields
-categories:
+tags:
 ---
 
 

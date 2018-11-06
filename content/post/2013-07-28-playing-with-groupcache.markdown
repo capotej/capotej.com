@@ -3,7 +3,7 @@ layout: post
 title: "Playing with groupcache"
 date: 2013-07-28T14:49:00Z
 comments: true
-categories: ["go", "databases", "distributed computing"]
+tags: ["go", "databases", "distributed computing"]
 ---
 
 This week, [@bradfitz](http://twitter.com/bradfitz) (of memcached fame) released [groupcache](http://github.com/golang/groupcache) at OSCON 2013. I'm already a big fan of [memcached](http://memcached) and [camlistore](http://camlistore.org), so I couldn't wait to download it and kick the tires.

@@ -4,7 +4,7 @@ title: "MigrationFor: Write migrations right from the command line!"
 date: 2011-01-03T09:48:00Z
 comments: false
 permalink: /post/2583891119/migrationfor-write-migrations-right-from-the-command
-categories:
+tags:
 ---
 
 

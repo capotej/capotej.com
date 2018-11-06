@@ -4,7 +4,7 @@ title: "What I released in 2010"
 date: 2010-12-31T13:29:00Z
 comments: false
 permalink: /post/2546786852/what-i-released-in-2010
-categories:
+tags:
 ---
 
 

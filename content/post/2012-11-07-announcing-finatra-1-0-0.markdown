@@ -3,7 +3,7 @@ layout: post
 title: "announcing finatra 1.0.0"
 date: 2012-11-07T21:20:00Z
 comments: true
-categories: ["finatra", "scala"]
+tags: ["finatra", "scala"]
 ---
 
 After months of work [Finatra](https://github.com/capotej/finatra#readme) 1.0.0 is finally available! Finatra is a scala web framework inspired by [Sinatra](https://github.com/sinatra/sinatra#readme) built on top of [Finagle](http://twitter.github.com/finagle).

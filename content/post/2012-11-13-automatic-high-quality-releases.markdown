@@ -3,7 +3,7 @@ layout: post
 title: "automatic high quality releases"
 date: 2012-11-13T21:31:00Z
 comments: true
-categories: ["shell scripting", "finatra"]
+tags: ["shell scripting", "finatra"]
 ---
 
 Recently, I invested some time into automating some of the work that goes into a [Finatra](http://github.com/capotej/finatra#readme) release.

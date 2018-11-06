@@ -4,7 +4,7 @@ title: "Useful Rails Routing tips"
 date: 2009-01-02T15:50:00Z
 comments: false
 permalink: /post/67873462/useful-rails-routing-tips
-categories:
+tags:
 ---
 
 

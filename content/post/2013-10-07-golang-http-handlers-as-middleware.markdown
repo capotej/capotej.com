@@ -3,7 +3,7 @@ layout: post
 title: "Golang http handlers as middleware"
 date: 2013-10-07T08:52:00Z
 comments: true
-categories: ["go", "http"]
+tags: ["go", "http"]
 ---
 
 Most modern web stacks allow the "filtering" of requests via stackable/composable middleware, allowing you to cleanly separate cross-cutting concerns from your web application. This weekend I needed to hook into go's ```http.FileServer``` and was pleasantly surprised how easy it was to do.

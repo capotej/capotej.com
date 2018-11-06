@@ -4,7 +4,7 @@ title: "Alfred Extension for creating Wunderlist tasks"
 date: 2012-01-09T23:36:00Z
 comments: false
 permalink: /alfred-extension-for-creating-wunderlist-task
-categories:
+tags:
 ---
 
 
