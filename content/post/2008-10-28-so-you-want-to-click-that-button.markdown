@@ -3,7 +3,7 @@ layout: post
 title: "So you want to click that button?"
 date: 2008-10-28T21:05:00Z
 comments: false
-permalink: /post/56866975/so-you-want-to-click-that-button
+url: /post/56866975/so-you-want-to-click-that-button
 tags:
 ---
 

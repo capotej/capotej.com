@@ -3,7 +3,7 @@ layout: post
 title: "Highlight link based on current page in rails"
 date: 2008-09-27T19:47:00Z
 comments: false
-permalink: /post/52081481/highlight-link-based-on-current-page-in-rails
+url: /post/52081481/highlight-link-based-on-current-page-in-rails
 tags:
 ---
 

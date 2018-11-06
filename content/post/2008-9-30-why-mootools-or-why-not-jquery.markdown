@@ -3,7 +3,7 @@ layout: post
 title: "Why MooTools (or Why not JQuery)"
 date: 2008-09-30T10:26:00Z
 comments: false
-permalink: /post/52467447/why-mootools-or-why-not-jquery
+url: /post/52467447/why-mootools-or-why-not-jquery
 tags:
 ---
 
