@@ -35,6 +35,6 @@ hello world
 
 This uses the new incremental compiler for maven, [zinc](http://github.com/typesafehub/zinc), which dramatically speeds up compile times (except for the first time you run it). It also sets you up with the latest scalatest maven plugin, which gives you sweet looking test output, like so:
 
-![](http://i.imgur.com/qyyem.png)
+![](https://i.imgur.com/qyyem.png)
 
 See the base [README](http://github.com/capotej/base#readme) for installation instructions.
