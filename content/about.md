@@ -1,6 +1,6 @@
 ---
 type: page
-title: "about"
+title: "About"
 ---
 
 # About

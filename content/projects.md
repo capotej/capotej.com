@@ -1,6 +1,6 @@
 ---
 type: page
-title: "projects"
+title: "Projects"
 ---
 
 # Projects
