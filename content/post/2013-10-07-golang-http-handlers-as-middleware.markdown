@@ -1,5 +1,5 @@
 ---
-title: "Golang http handlers as middleware"
+title: "Golang HTTP Handlers as Middleware"
 date: 2013-10-07T08:52:00Z
 comments: true
 tags: ["go", "http"]

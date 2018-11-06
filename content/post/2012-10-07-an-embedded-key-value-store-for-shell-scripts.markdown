@@ -1,5 +1,5 @@
 ---
-title: "an embedded key / value store for shell scripts"
+title: "An Embedded Key/Value Store for Shell Scripts"
 date: 2012-10-07T10:06:00Z
 comments: true
 tags: ['shell scripting', 'databases']

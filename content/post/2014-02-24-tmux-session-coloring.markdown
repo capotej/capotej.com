@@ -1,5 +1,5 @@
 ---
-title: "Tmux session coloring"
+title: "Tmux Session Coloring"
 date: 2014-02-24T00:00:00Z
 comments: true
 tags: ["shell scripting", "tmux"]
