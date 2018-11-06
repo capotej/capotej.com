@@ -1,6 +1,6 @@
 ---
 type: page
-title: "prasd"
+title: "projects"
 ---
 
 # Projects
