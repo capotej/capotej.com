@@ -27,7 +27,7 @@ Using [sub](https://github.com/37signals/sub#readme), I was able to create a `fi
 
 Last week we released [1.1.0](https://github.com/capotej/finatra/commit/37c81957271dde77d4c3f6361bbae705a5142c89), and the README was [completely generated](https://github.com/capotej/finatra/commit/913d0ed5bfa18c903feb5779d4d8b9d87703b6c5), as was the [example app](https://github.com/capotej/finatra-example/commit/dbc82908360f3cb4cfc4388c28f593f17258fab2). Not to mention, all generated apps would also contain the latest templates and examples!
 
-![](http://i0.kym-cdn.com/photos/images/original/000/021/073/1254172884282.jpg?1254173845)
+![](https://i0.kym-cdn.com/photos/images/original/000/021/073/1254172884282.jpg?1254173845)
 
 Let's dive into how it all works:
 
