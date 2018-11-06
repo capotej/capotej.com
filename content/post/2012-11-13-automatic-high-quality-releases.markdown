@@ -8,6 +8,8 @@ tags: ["shell scripting", "finatra"]
 
 Recently, I invested some time into automating some of the work that goes into a [Finatra](http://github.com/capotej/finatra#readme) release.
 
+<!--more-->
+
 The work consists of updating:
 
 * The version in the XML fragment of the main [README.markdown](https://github.com/finatra/https://github.com/capotej/finatra/blob/master/README.markdown)

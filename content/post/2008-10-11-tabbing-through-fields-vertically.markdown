@@ -11,6 +11,8 @@ tags:
 
 Sometimes it’s useful to switch the browser’s default tabbing behavior (left to right) to the opposite (top to bottom) when your input fields are in a grid layout instead the of the usual single column layout. Having to do this manually is a real pain, especially for large grids; So here is a solution in javascript, using mootools:
 
+<!--more-->
+
 ```javascript
 window.addEvent('domready', function(){
     var trs = $$('#mytable tr')

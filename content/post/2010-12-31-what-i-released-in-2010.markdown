@@ -7,9 +7,9 @@ url: /post/2546786852/what-i-released-in-2010
 tags:
 ---
 
-
-
 Here’s a recap of what I’ve worked on and released in 2010:
+
+<!--more-->
 
 ###[Youtube Fraiche](https://github.com/capotej/youtube_fraiche)
 

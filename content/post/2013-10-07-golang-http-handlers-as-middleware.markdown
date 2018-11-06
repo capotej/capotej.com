@@ -8,6 +8,8 @@ tags: ["go", "http"]
 
 Most modern web stacks allow the "filtering" of requests via stackable/composable middleware, allowing you to cleanly separate cross-cutting concerns from your web application. This weekend I needed to hook into go's ```http.FileServer``` and was pleasantly surprised how easy it was to do.
 
+<!--more-->
+
 Let's start with a basic file server for ```/tmp```:
 
 ```go main.go

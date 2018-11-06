@@ -8,6 +8,7 @@ tags: ["efficiency", "scala", "shell scripting"]
 
 Finally got tired of copy pasting other projects and gutting them to make new ones, so I created [base](http://github.com/capotej/base), a shell command that creates new scala projects.
 
+<!--more-->
 
 Creating the project:
 

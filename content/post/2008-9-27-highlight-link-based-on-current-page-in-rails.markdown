@@ -10,7 +10,7 @@ tags:
 
 
 This is common pattern in website navigation, where it highlights the link (usually by setting `class=”active”`) that took you to the current page while you are on that page.
-
+<!--more-->
 First, define a helper:
 
 ```ruby

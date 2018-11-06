@@ -10,6 +10,8 @@ UPDATE: this is now available as a [sub](http://github.com/37signals/sub) comman
 
 Cooked this up last night when I needed a simple key/value store for use in a shell script:
 
+<!--more-->
+
 ```sh db.sh
 #!/bin/sh
 

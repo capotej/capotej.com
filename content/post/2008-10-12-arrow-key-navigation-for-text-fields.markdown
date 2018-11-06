@@ -11,6 +11,9 @@ tags:
 
 Here is a class for enabling the use of arrow keys to navigate through a grid of input fields: (using mootools)
 
+<!--more-->
+
+
 ```javascript
 var FocusMover = new Class({
 
