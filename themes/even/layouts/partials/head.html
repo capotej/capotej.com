@@ -32,9 +32,6 @@
 {{ with .Site.Params.baidu_verification }}<meta name="baidu-site-verification" content="{{.}}" />{{ end }}
 {{ with .Site.Params.google_verification }}<meta name="google-site-verification" content="{{.}}" />{{ end }}
 
-<!-- Site Generator -->
-<meta name="generator" content="Hugo {{ .Hugo.Version }}" />
-
 <!-- Permalink & RSSlink -->
 <link rel="canonical" href="{{ .Permalink }}" />
 <link rel="alternate" type="application/atom+xml" title="capotej.com" href="/atom.xml">
@@ -50,11 +47,6 @@
 {{- if .Site.Params.debug }}
 <script src="https://cdn.jsdelivr.net/npm/eruda@1.2.6/eruda.min.js" integrity="sha256-Jmz4bc3kp+rRrXX2tGadNBKFLwtzMapr8kHABxSAAP8=" crossorigin="anonymous"></script>
 <script>eruda.init();</script>
-{{- end }}
-
-<!-- busuanzi -->
-{{ if .Site.Params.busuanzi.enable -}}
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 {{- end }}
 
 <!-- Styles -->
