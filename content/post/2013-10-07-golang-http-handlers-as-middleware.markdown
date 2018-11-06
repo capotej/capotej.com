@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Golang http handlers as middleware"
 date: 2013-10-07T08:52:00Z
 comments: true

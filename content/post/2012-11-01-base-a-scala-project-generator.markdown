@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "base: a scala project generator"
 date: 2012-11-01T14:39:00Z
 comments: true

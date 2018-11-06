@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Render image links directly inside Adium"
 date: 2011-09-13T08:59:00Z
 comments: false

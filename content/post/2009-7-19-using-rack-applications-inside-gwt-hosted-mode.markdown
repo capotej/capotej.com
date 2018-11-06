@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Using Rack applications inside GWT Hosted mode"
 date: 2009-07-19T18:51:00Z
 comments: false

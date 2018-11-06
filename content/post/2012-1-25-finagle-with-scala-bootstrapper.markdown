@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Finagle with scala-bootstrapper"
 date: 2012-01-25T09:45:00Z
 comments: false

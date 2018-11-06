@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "an embedded key / value store for shell scripts"
 date: 2012-10-07T10:06:00Z
 comments: true

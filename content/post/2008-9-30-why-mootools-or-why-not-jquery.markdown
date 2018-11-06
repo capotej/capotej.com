@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Why MooTools (or Why not JQuery)"
 date: 2008-09-30T10:26:00Z
 comments: false

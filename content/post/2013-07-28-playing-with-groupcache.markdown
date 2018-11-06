@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Playing with groupcache"
 date: 2013-07-28T14:49:00Z
 comments: true

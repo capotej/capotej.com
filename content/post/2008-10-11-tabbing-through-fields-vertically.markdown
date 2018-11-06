@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tabbing through fields vertically"
 date: 2008-10-11T01:54:00Z
 comments: false

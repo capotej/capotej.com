@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "MigrationFor: Write migrations right from the command line!"
 date: 2011-01-03T09:48:00Z
 comments: false

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Alfred Extension for creating Wunderlist tasks"
 date: 2012-01-09T23:36:00Z
 comments: false

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tmux session coloring"
 date: 2014-02-24T00:00:00Z
 comments: true

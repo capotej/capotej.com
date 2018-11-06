@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "automatic high quality releases"
 date: 2012-11-13T21:31:00Z
 comments: true
