@@ -11,7 +11,7 @@ This week, [@bradfitz](http://twitter.com/bradfitz) (of memcached fame) released
 
 By the way, I **strongly** recommend you go through the [slides](http://talks.golang.org/2013/oscon-dl.slide#1) and [README](http://github.com/golang/groupcache) before going further.
 
-## What groupcache isn't
+## What groupcache is not
 After downloading it (without reading the [slides](http://talks.golang.org/2013/oscon-dl.slide#1)), I instinctively searched around for how to actually start the server(s), only to find nothing. Turns out, groupcache is more of a _library_ with a server built in, rather than a traditional standalone server. Another important consideration is that theres **no support for set/update/evict operations**, all you get is GET. Really fast, consistent, distributed GET's.
 
 ## What it is
