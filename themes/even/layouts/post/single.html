@@ -30,6 +30,15 @@
     <!-- Outdated Info Warning -->
     {{ partial "post/outdated-info-warning.html" . }}
 
+    {{ with .Params.tags -}}
+      <div class="post-tags">
+        {{ range . }}
+        <a href="{{ "tags" | relLangURL }}/{{ . | urlize }}/">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{- end }}
+    <hr/>
+
     <!-- Content -->
     <div class="post-content">
       {{ .Content }}
@@ -42,13 +51,6 @@
     {{ partial "post/reward.html" . }}
 
     <footer class="post-footer">
-      {{ with .Params.tags -}}
-        <div class="post-tags">
-          {{ range . }}
-          <a href="{{ "tags" | relLangURL }}/{{ . | urlize }}/">{{ . }}</a>
-          {{ end }}
-        </div>
-      {{- end }}
 
       <!-- Post Pagination -->
       <nav class="post-nav">
