@@ -3,7 +3,7 @@ title: "Finagle with scala-bootstrapper"
 date: 2012-01-25T09:45:00Z
 comments: false
 url: /finagle-with-scala-bootstrapper
-tags:
+tags: ["scala"]
 ---
 
 
@@ -12,7 +12,7 @@ I've been fascinated by the concepts in [finagle](http://twitter.github.com/fina
 
 This is a guide on setting it all up locally, it assumes you have Git, Homebrew, and OS X.
 
-###Install scala 2.8.1
+### Install scala 2.8.1
 
 ```sh
 $ brew versions scala
@@ -22,20 +22,20 @@ $ brew install scala
 $ git checkout master$git branch -D scala281
 ```
 
-###Install sbt 0.7.4 (assumes you have a ~/bin in your $PATH)
+### Install sbt 0.7.4 (assumes you have a ~/bin in your $PATH)
 
 ```sh
 $ curl -O http://simple-build-tool.googlecode.com/files/sbt-launch-0.7.4.jar > ~/bin/sbt-launch.jar
 $ echo 'java -Xmx1G -jar `dirname $0`/sbt-launch.jar "$@"'> ~/bin/sbt
 ```
 
-###Install scala-bootstrapper
+### Install scala-bootstrapper
 
 ```sh
 $ gem install scala-bootstrapper
 ```
 
-###Generate finagle project**
+### Generate finagle project**
 
 ```sh
 $ mkdir newbird
@@ -45,7 +45,7 @@ $ sbt update
 $ sbt test
 ```
 
-###Add a Client class
+### Add a Client class
 
 create newbird/src/main/scala/com/twitter/newbird/Client.scala with
 
@@ -75,7 +75,7 @@ class Client {  
 
 ```
 
-###Running the server
+### Running the server
 
 ```sh
 $ cd newbird
@@ -83,7 +83,7 @@ $ sbt> run -f config/development.scala
 
 ```
 
-###Playing with the client**
+### Playing with the client
 
 
 ```sh
@@ -95,7 +95,7 @@ scala> client.put("foo","bar")
 scala> client.get("foo")
 ```
 
-###Bonus
+### Bonus
 
 finagle exports a stats url you can curl:
 

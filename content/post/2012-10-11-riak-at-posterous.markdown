@@ -1,5 +1,5 @@
 ---
-title: "riak at posterous"
+title: "Piak at Posterous"
 date: 2012-10-11T13:47:00Z
 comments: true
 tags: ['riak', 'posterous', 'presentation']

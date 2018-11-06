@@ -1,5 +1,5 @@
 ---
-title: "announcing finatra 1.0.0"
+title: "Announcing Finatra 1.0.0"
 date: 2012-11-07T21:20:00Z
 comments: true
 tags: ["finatra", "scala"]

@@ -1,5 +1,5 @@
 ---
-title: "automatic high quality releases"
+title: "Automatic High Quality Releases"
 date: 2012-11-13T21:31:00Z
 comments: true
 tags: ["shell scripting", "finatra"]

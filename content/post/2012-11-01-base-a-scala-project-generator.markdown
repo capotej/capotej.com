@@ -1,5 +1,5 @@
 ---
-title: "base: a scala project generator"
+title: "Base: A Scala Project Generator"
 date: 2012-11-01T14:39:00Z
 comments: true
 tags: ["efficiency", "scala", "shell scripting"]
