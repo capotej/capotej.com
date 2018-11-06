@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/capotej
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://capotej.com
+  * I am capotej (https://keybase.io/capotej) on keybase.
+  * I have a public key ASB5HVHp9lWeDbwLvKSubj8Ul7-8JG38qYyKlcf2zcBaTgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010103dbdaf285c6020453146374b37c577564ee6b15d4e7e38005bb2e972d748a410a",
+      "host": "keybase.io",
+      "kid": "0120791d51e9f6559e0dbc0bbca4ae6e3f1497bfbc246dfca98c8a95c7f6cdc05a4e0a",
+      "uid": "b5c25856e433b7b8a2006566b6a7b300",
+      "username": "capotej"
+    },
+    "merkle_root": {
+      "ctime": 1541547781,
+      "hash": "b2f6bc1edfa8b3341843dcfd22c7f681f8d16f148922661ee78c472de28001731a0124a25b2c39cb3c9d6cfc4bf23a8087e06552010f4d7220918dddb0f10798",
+      "hash_meta": "aed3feadb249e8c05d5df632f9e45e4498c0e7d60c639fbf6b02bb8c36b642c7",
+      "seqno": 3911685
+    },
+    "service": {
+      "entropy": "KpPjs3dk8mNQgaJ1NjSVjNFK",
+      "hostname": "capotej.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.9.0"
+  },
+  "ctime": 1541547799,
+  "expire_in": 504576000,
+  "prev": "abbefc29edac13b2831f9d2803f42c2d935bde0741c0a1dc4a8f2183fdc23285",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeR1R6fZVng28C7ykrm4/FJe/vCRt/KmMipXH9s3AWk4Kp3BheWxvYWTESpcCI8Qgq778Ke2sE7KDH50oA/QsLZNb3gdBwKHcSo8hg/3CMoXEID+cixAr9BceOG3JZtv93ICM4PdvdR2O3BB/8I2hNYeWAgHCo3NpZ8RA8KuaDyMbxmTkbXGTV3J+yNULgbfZ10Pp95heZRpLI3OT7vybWUS/EFPEC6bLOi0Fin/8j6qgy0Hop2DHufRdDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIKbCSZlVy5n15//xfaNG/tr7z4XK5tcyE7cb6PVlnXmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/capotej
