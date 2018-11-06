@@ -1,3 +1,24 @@
 .header .logo-wrapper .logo {
     font-family: sans-serif;
 }
+
+.about-logos {
+  list-style-type: none;
+}
+
+.about-logos li {
+  padding: 8px;
+}
+
+.about-logos li a {
+  padding-left: 4px;
+}
+
+.about-logos li i {
+  vertical-align: middle;
+}
+
+#avatar {
+  width: 100px;
+  border-radius: 50%;
+}
