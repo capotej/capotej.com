@@ -57,9 +57,6 @@ $global-lineheight: 1.5 !default;
 // Font family of the site.
 $global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
 
-// Serif font family of the site.
-$global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
-
 // Background color of the site.
 $global-background: $white !default;
 
@@ -77,19 +74,6 @@ $global-headings: (
 // ========== Header ========== //
 // Padding of the site header.
 $header-padding: 20px 20px !default;
-
-// Font family: Chancery
-@font-face {
-  font-family: 'Chancery';
-  src: url('../fonts/chancery/apple-chancery-webfont.eot');
-  src: local('Apple Chancery'), url('../fonts/chancery/apple-chancery-webfont.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/chancery/apple-chancery-webfont.woff2') format('woff2'),
-  url('../fonts/chancery/apple-chancery-webfont.woff') format('woff'),
-  url('../fonts/chancery/apple-chancery-webfont.ttf') format('truetype'),
-  url('../fonts/chancery/apple-chancery-webfont.svg#apple-chancery') format('svg');
-  font-weight: lighter;
-  font-style: normal;
-}
 
 // Font size of the logo.
 $logo-font-size: 48px !default;
