@@ -7,7 +7,7 @@
   max-width: $archive-max-width;
 
   .archive-title {
-    font-family: $global-serif-font-family;
+    font-family: $global-font-family;
 
     &.tag,
     &.category {
@@ -28,8 +28,8 @@
   }
 
   .collection-title {
-    font-family: $global-serif-font-family;
-  
+    font-family: $global-font-family;
+
     .archive-year {
       margin: 15px 0;
       font-weight: 400;
@@ -48,7 +48,7 @@
     }
 
     .archive-post-title {
-      
+
       .archive-post-link {
         color: $theme-color;
       }
