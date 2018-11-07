@@ -20,7 +20,7 @@ title: "Projects"
 
 [**Nolimit**](https://github.com/capotej/nolimit#readme) - a [bitcask](http://basho.com/blog/technical/2010/04/27/hello-bitcask/) database exposed via a [webmachine](http://wiki.basho.com/Webmachine.html) HTTP API, written mainly to learn webmachine and bitcask
 
-[**Watercoolr**](http://watercoolr.nuklei.com/) - pubsub via HTTP webhooks, source [here](https://github.com/capotej/watercoolr)
+[**Watercoolr**](http:///github.com/capotej/watercoolr) - pubsub via HTTP webhooks
 
 [**Uploadd**](https://github.com/capotej/uploadd#readme) - [rainbows](http://rainbows.rubyforge.org/FAQ.html) based upload server, with [rails paperclip plugin](https://github.com/capotej/paperclip_uploadd)
 
